@@ -1,0 +1,18 @@
+{
+  "name": "happynewyear2021",
+  "version": "1.0.0",
+  "description": "Happy Lunar New year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangxuanphuc/happy-lunar-new-year-2021.git"
+  },
+  "author": "Phuc Dang Xuan",
+  "homepage": "https://github.com/dangxuanphuc/happy-lunar-new-year-2021#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
